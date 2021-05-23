@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>天马物语</title>
+  <title>天马行空</title>
   
-  <subtitle>天马行空，胡言乱语</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tianma630.com/"/>
